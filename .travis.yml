@@ -3,6 +3,7 @@ language: go
 go:
     - stable
     - 1.12.x
+    - 1.11.x
 
 sudo: required
 dist: xenial
